@@ -5,7 +5,7 @@ This repository contains my solutions for the problem sets in Harvard's Introduc
 If you're taking the course currently, I encourage you to work through the problem sets on your own and only look up solutions when you've exhausted all other resources. You'll get the most out of the assignments this way.
 
 # Assignments
-Below are the assignments with a corresponding and handy link to my solutions.
+Below are some links to the assignment details and a corresponding link to my solution. The code is commented with a brief explanation of my solution.
 ## Week 0
 | Assignment | My Solution |
 | ---------- | -------- |
