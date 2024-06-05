@@ -6,6 +6,7 @@ If you're taking the course currently, I encourage you to work through the probl
 
 # Assignments
 Below are some links to the assignment details and a corresponding link to my solution. The code is commented with a brief explanation of my solution.
+
 ## Week 0
 | Assignment | My Solution |
 | ---------- | -------- |
