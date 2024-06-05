@@ -14,3 +14,7 @@ Below are the assignments with a corresponding and handy link to my solutions.
 | [Making Faces](https://cs50.harvard.edu/python/2022/psets/0/faces/) | faces.py |
 | [Einstein](https://cs50.harvard.edu/python/2022/psets/0/einstein/) | einstein.py |
 | [Tip Calculator](https://cs50.harvard.edu/python/2022/psets/0/tip/) | tip.py |
+
+## Week 1
+| Assignment | My Solution |
+| ---------- | ----------- |
