@@ -11,3 +11,4 @@ Below are the assignments with a corresponding and handy link to my solutions.
 | 0 | [Indoor Voice](https://cs50.harvard.edu/python/2022/psets/0/indoor/) | [indoor.py](https://github.com/cheksumhov/cs50p-solutions/blob/main/Week%200/indoor.py) |
 | 0 | [Playback Speed](https://cs50.harvard.edu/python/2022/psets/0/playback/) | playback.py |
 | 0 | [Making Faces](https://cs50.harvard.edu/python/2022/psets/0/faces/) | faces.py |
+| 0 | [Einstein](https://cs50.harvard.edu/python/2022/psets/0/einstein/) | einstein.py |
