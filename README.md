@@ -10,10 +10,10 @@ Below are the assignments with a corresponding and handy link to my solutions.
 | Assignment | My Solution |
 | ---------- | -------- |
 | [Indoor Voice](https://cs50.harvard.edu/python/2022/psets/0/indoor/) | [indoor.py](https://github.com/cheksumhov/cs50p-solutions/blob/main/Week%200/indoor.py) |
-| [Playback Speed](https://cs50.harvard.edu/python/2022/psets/0/playback/) | playback.py |
-| [Making Faces](https://cs50.harvard.edu/python/2022/psets/0/faces/) | faces.py |
-| [Einstein](https://cs50.harvard.edu/python/2022/psets/0/einstein/) | einstein.py |
-| [Tip Calculator](https://cs50.harvard.edu/python/2022/psets/0/tip/) | tip.py |
+| [Playback Speed](https://cs50.harvard.edu/python/2022/psets/0/playback/) | [playback.py](https://github.com/cheksumhov/cs50p-solutions/blob/main/Week%200/playback.py) |
+| [Making Faces](https://cs50.harvard.edu/python/2022/psets/0/faces/) | [faces.py](https://github.com/cheksumhov/cs50p-solutions/blob/main/Week%200/faces.py) |
+| [Einstein](https://cs50.harvard.edu/python/2022/psets/0/einstein/) | [einstein.py](https://github.com/cheksumhov/cs50p-solutions/blob/main/Week%200/einstein.py) |
+| [Tip Calculator](https://cs50.harvard.edu/python/2022/psets/0/tip/) | [tip.py](https://github.com/cheksumhov/cs50p-solutions/blob/main/Week%200/tip.py) |
 
 ## Week 1
 | Assignment | My Solution |
