@@ -6,4 +6,6 @@ If you're taking the course currently, I encourage you to work through the probl
 
 # Assignments
 ## Week 0
-Indoor.py - https://cs50.harvard.edu/python/2022/psets/0/indoor/
+https://cs50.harvard.edu/python/2022/psets/0/indoor/
+| Week | Assignment | Solution |
+| 0 | https://cs50.harvard.edu/python/2022/psets/0/indoor/ | indoor.py |
